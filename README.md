@@ -22,6 +22,6 @@
 `REACT JS`
 
 
-- <a href="https://bot-ai-ecru.vercel.app/" target="_blank">Click here for demo</a>
+- <a href="https://xbotai.vercel.app/" target="_blank">Click here for demo</a>
 
 **Had fun building!** 🚀
